@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-httpcomponents/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-httpcomponents/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-httpcomponents/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Librerias - Maven/Librerias/Libreria Objetos Json/JsonObject - JsonArray - com.google.gson/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Librerias - Maven/Librerias/Libreria Objetos Json/JsonObject - JsonArray - javax.json/javax.json-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Librerias - Maven/Librerias/Libreria Objetos Json/JSONObject - JSONArray - org.json/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/jersey-client-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/jersey-common-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/hk2-utils-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/hk2-api-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/jersey-guava-2.25.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/hk2-locator-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgar/Google Drive/Sistemas/Programacion/Java Empresarial (J2EE) - Swagger/Java Empresarial (J2EE)/Web Services (SOAP y REST)/REST/LibreriasRest/Librerias-client-jersey/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
